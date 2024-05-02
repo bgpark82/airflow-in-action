@@ -1,0 +1,5 @@
+.idea
+airflow.db
+airflow-webserver.pid
+standalone_admin_password.txt
+logs
